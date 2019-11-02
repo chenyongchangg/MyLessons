@@ -1,0 +1,15 @@
+C:\Users\cheny\source\repos\LruDemo\bin\Debug\LruDemo.exe.config
+C:\Users\cheny\source\repos\LruDemo\bin\Debug\LruDemo.exe
+C:\Users\cheny\source\repos\LruDemo\bin\Debug\LruDemo.pdb
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.csprojAssemblyReference.cache
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\MainWindow.g.cs
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\App.g.cs
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo_MarkupCompile.cache
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo_MarkupCompile.lref
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\MainWindow.baml
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.g.resources
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.Properties.Resources.resources
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.csproj.GenerateResource.cache
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.csproj.CoreCompileInputs.cache
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.exe
+C:\Users\cheny\source\repos\LruDemo\obj\Debug\LruDemo.pdb
