@@ -9,14 +9,15 @@ bool insert_sort(int raw_group[], int n){
     for(int i=1; i<n; i++){
         if(raw_group[i]<raw_group[i-1]){//可以插入
             tem = raw_group[i];
-            while(i>0 && raw_group[i-1]>tem){
-                raw_group[i] = raw_group[i-1];
-                i--;gz
+            int j = i;
+            while(j>0 && raw_group[j-1]>tem){
+                raw_group[j] = raw_group[j-1];
+                j--;
             }
-            raw_group[i] = tem;
+            raw_group[j] = tem;
         }
         else{
-                //无需插入
+            //无需插入
         }
     }
     return true;
@@ -28,4 +29,5 @@ int main()
     for(int i=0; i<10; i++)
         cout<<raw_group[i];
 }
+
 
